@@ -42,17 +42,17 @@ Agent:  ✔  Searched theme and custom plugins for the text
 
 ### PressViber Plugin Homepage
 
-![PressViber Plugin Homepage](assets/screenshots/PressViber Plugin Homepage.png)
+![PressViber Plugin Homepage](assets/screenshots/PressViber_Plugin_Homepage.png)
 *The main PressViber interface in the WordPress admin dashboard*
 
 ### PressViber with Prompt Inputted
 
-![PressViber Prompt Inputted](assets/screenshots/PressViber Prompt Inputted.png)
+![PressViber Prompt Inputted](assets/screenshots/PressViber_Prompt_Inputted.png)
 *User entering a natural language command in the chat interface*
 
 ### PressViber Task Completed
 
-![PressViber Work Done](assets/screenshots/PressViber Work Done.png)
+![PressViber Work Done](assets/screenshots/PressViber_Work_Done.png)
 *The agent successfully completing a site modification task*
 
 ---
