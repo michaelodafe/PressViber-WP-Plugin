@@ -38,6 +38,22 @@ Agent:  ✔  Searched theme and custom plugins for the text
 
 ---
 
+## Screenshots
+
+### PressViber Plugin Homepage
+![PressViber Plugin Homepage](assets/screenshots/PressViber Plugin Homepage.png)
+*The main PressViber interface in the WordPress admin dashboard*
+
+### PressViber with Prompt Inputted
+![PressViber Prompt Inputted](assets/screenshots/PressViber Prompt Inputted.png)
+*User entering a natural language command in the chat interface*
+
+### PressViber Task Completed
+![PressViber Work Done](assets/screenshots/PressViber Work Done.png)
+*The agent successfully completing a site modification task*
+
+---
+
 ## Features
 
 - **Natural language editing** — describe changes in plain English
