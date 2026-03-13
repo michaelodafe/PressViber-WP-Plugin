@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+vercel-agent-runtime/.env
+
+# Plugin trash (soft-deleted files)
+.aivb_trash/
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# PHP
+*.log
+error_log
+
+# WordPress test suite
+tests/phpunit/tmp/
+/tmp/
+
+# Compiled assets (if you add a build step later)
+assets/css/*.min.css
+assets/js/*.min.js
+
+# Release ZIPs
+*.zip
