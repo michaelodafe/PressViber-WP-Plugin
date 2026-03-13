@@ -9,6 +9,7 @@ PressViber embeds an agentic AI directly inside your WordPress admin dashboard. 
 ## Table of Contents
 
 - [Overview](#overview)
+- - [Screenshots](#screenshots)
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
